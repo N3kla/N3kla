@@ -15,7 +15,7 @@ I originally studied **graphic design**, which gave me a strong foundation in vi
 
 For the past 9 years I worked in credit management, focusing on data analysis, process optimization, statistics and project management – skills I now see as highly transferable to development (problem-solving, logical thinking, precision).
 
-Web development has always pulled me in – I love the idea of building interactive things people can actually use.  
+Development has always pulled me in – I love the idea of building interactive things people can actually use.  
 That's why I'm now fully committed to this career change and actively teaching myself modern frontend technologies.
 
 Open to junior frontend opportunities!  
